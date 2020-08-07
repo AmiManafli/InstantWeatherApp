@@ -1,0 +1,2 @@
+Containers are our state-managing components. 
+They are at the very top of our hierarchy and usually consist of several components. 

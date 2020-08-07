@@ -1,0 +1,16 @@
+App  <- states here
+|__Header
+|  |__Logo
+|__SearchBar  
+|  |__InputField
+|  |__Button Group
+|     |__GPS Button
+|     |__Set Button
+|__Card
+|  |__WeatherDetails
+|     |__Icon
+|     |__Temperature
+|     |__Description
+|     |__Date
+|__Footer
+|  |__Logo

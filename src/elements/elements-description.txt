@@ -1,0 +1,2 @@
+Buttons, Icons, Inputs, etc. — all those are elements which are used over and over again. 
+They are low-level items, reused in multiple components.

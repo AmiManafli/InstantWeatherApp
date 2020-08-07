@@ -1,0 +1,1 @@
+A component has to fulfill a certain standalone function for the user or the app’s appearance. 
